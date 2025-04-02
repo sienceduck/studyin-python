@@ -1,6 +1,6 @@
 # studyin-python
 02/04/2025
-Just putting all my files here for easy access, all the things I've written throught my programming journey with Python 3.13.2.
+Just putting all my files here for easy access, all the things I've written throught my programming journey with Python 3.13.2.\
 All the resources I've used (including books, videos, documentations):
 All sorted by source in folders.
 
